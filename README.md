@@ -9,9 +9,9 @@ This repository contains the analysis code used in the **[Regional patterns of n
 
 ## Repository Overview
 The pipeline integrates:
-- **ImageJ macros** for semi-automated counting of immunohistochemistry markers.
-- **Ilastik workflows** for supervised classification and quantification of spongiform change using random forrest methods
-- **ImageJ macros** for analysing the output of Ilastik segmentation
+- **IMS_macros** for semi-automated counting of immunohistochemistry markers.
+- **spongiosis_analyser** contains Ilastik workflows for supervised classification and quantification of spongiform change using random forrest methods
+- and imageJ files for analysing the output of Ilastik segmentation
 
 ## Requirements
 - ImageJ/Fiji (v1.53 or later)
