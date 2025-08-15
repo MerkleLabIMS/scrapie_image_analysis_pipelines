@@ -1,6 +1,9 @@
 # scrapie_image_analysis_pipelines
 Image analysis pipelines for merkle lab short time-course protocol paper 
 
+The current version is archvied as
+
+[![DOI](https://zenodo.org/badge/1036704045.svg)](https://doi.org/10.5281/zenodo.16881828)
 ## RML Spongiosis Mapping Pipeline
 
 This repository contains the analysis code used in the **[Regional patterns of neurodegeneration in a mouse model of proteinopathy]** (DOI to be added) part of larger work profiling RML scrpaie disease overtime and providing reproducible workflows for pre-clinical project in neurodegeneration. This manuscript supports the work below:
